@@ -35,7 +35,7 @@ This assessment tests your understanding of building a full stack app using Reac
 
 Create a webpage with the following functionality:
 
-- [ ] A list of students.
+- [x] A list of students.
 - [ ] A form to add new students. There should be fields to input the first and last names, separately.
   - After submitting the form, the new student should be added to the database and displayed on the page.
 - [ ] Each student can be deleted with a delete button. After clicking on this button, student should be deleted from the database and the updated list of students shown on the page
@@ -81,8 +81,10 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. API Endpoints & MySQL
 
-- Grade:
-- Explanation:
+- Grade:2
+- Explanation: I had some issues finding the correct route at the beggining of the project, I spent around 1.5 hours trying to figure that out. Later, I wanted to code using await instead of .then and I struggled a bit coding it that way.
+
+Another thing was inserting correctly data in the database. My time was up finishing the POST.
 
 ### 2. Frontend
 
